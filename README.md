@@ -14,4 +14,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-##Contact me 
+## Contact me 
+<a href="https://instagram.com/mohammadrezakjv"> <img src="https://github.com/mohammadrezakjv/mohammadrezakjv/blob/main/icons8-instagram-50.png?raw=true" alt="instagram icon" width="50px" height="50px"/> </a>
+<a href="https://telegram.com/mohammadrezakjv"> <img src="https://github.com/mohammadrezakjv/mohammadrezakjv/blob/main/icons8-telegram-96.png?raw=true" alt="instagram icon" width="50px" height="50px"/> </a>
